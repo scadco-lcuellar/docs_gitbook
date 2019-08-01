@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Chat-Bots Docs](README.md)
-* [Untitled](untitled.md)
+* [Bots](untitled.md)
+* [API](api.md)
 
